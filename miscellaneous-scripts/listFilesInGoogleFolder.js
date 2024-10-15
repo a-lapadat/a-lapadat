@@ -1,3 +1,6 @@
+// This Google Apps Script script retrieves and lists the names of all files in a specified Google Drive folder. 
+/// It creates a new Google Document and appends the file names as text within the document.
+
 function listFilesInFolder() {
   var folderId = "xxxxxxxxxxxxxxxxxxxxxxx"; // Replace with the actual folder ID
   var folder = DriveApp.getFolderById(folderId);
