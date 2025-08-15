@@ -16,6 +16,6 @@ After graduation, I plan to explore different research paths either in academia 
 Beyond the natural and formal sciences, I love learning about paleontology (I've been a docent at my college's natural history museum since my first semester!), philosophy, history, and the ethical use of AI. Feel free to reach out if you're working on an interdisciplinary project or think I'd be interested in something you're exploring.
 
 ### Email: alexialapadat@gmail.com <br>
-### LinkedIn: https://www.linkedin.com/in/alex_lapadat/ 
+### LinkedIn: https://www.linkedin.com/in/alex-lapadat/ 
 
 
